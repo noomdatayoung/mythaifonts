@@ -1,0 +1,44 @@
+@font-face {
+ font-family: sepb;
+ src: url("sepb.eot") /* EOT file for IE */
+}
+@font-face {
+ font-family: sepb;
+ src: url("sepb.ttf") /* TTF file for CSS3 browsers */
+}
+#sepb {   font: 400 34px/1  'sepb';}
+#sepbb {   font: 400 28px/0.8  'sepb'; color: #29646f;
+text-shadow: 0px 1px 1px white;
+
+}
+@font-face {
+ font-family: sepe;
+ src: url("sepe.ttf") /* TTF file for CSS3 browsers */
+}
+@font-face {
+ font-family: ths;
+ src: url("THSarabun.ttf") /* TTF file for CSS3 browsers */
+}
+@font-face {
+ font-family: thsn;
+ src: url("THSarabunNew.ttf") /* TTF file for CSS3 browsers */
+}
+
+#sepe {   font: 400 22px/0.9  'sepe';}
+#sepee {   font: 400 28px/0.8  'sepe'; color: #29646f;}
+
+#ths {   font: 400 34px/1  'ths';}
+#thsn {   font: 400 28px/0.8  'thsn'; color: #29646f;
+
+text-shadow: 0px 1px 1px white;
+
+}
+@font-face {
+ font-family: sepl;
+ src: url("sepl.ttf") /* TTF file for CSS3 browsers */
+}
+#sepl {   font: 400 32px/1  'sepb';}
+#sepll {   font: 400 28px/0.8  'sepl'; color: #29646f;
+text-shadow: 0px 1px 1px white;
+
+}
